@@ -1,0 +1,26 @@
+.ceo {
+    padding: 100px 0;
+}
+
+.ceo h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.ceo .ceo_img {
+    margin: 30px 0;
+}
+
+.ceo span {
+    display: block;
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.ceo p {
+    line-height: 1.6;
+}
